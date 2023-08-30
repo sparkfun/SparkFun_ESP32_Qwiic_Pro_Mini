@@ -1,0 +1,11 @@
+2023-08-17 21:26:16,511 - panelizer_logger - INFO - Running Panelizer
+2023-08-17 21:26:16,512 - panelizer_logger - INFO - ['--panelx', '127.000000', '--panely', '127.000000', '--larger', '--gapx', '5.080000', '--gapy', '0.000000', '--hrail', '6.35', '--vrail', '6.35', '--fiducialslr']
+2023-08-17 21:26:16,514 - panelizer_logger - INFO - PANELIZER START: 2023-08-17T21:26:16.514891
+2023-08-17 21:26:19,772 - panelizer_logger - INFO - 
+START: 2023-08-17T21:26:16.514891
+
+Board: C:/Users/natha/Dropbox/Projects/SparkFun_Pro_Mini-ESP32/Hardware\Production\SparkFun_Pro_Mini-ESP32_panelized.kicad_pcb
+Board dimensions: 33.02 x 17.78 mm.
+You can fit 4 x 7 boards on the panel.
+
+2023-08-17 21:26:19,783 - panelizer_logger - INFO - Panelizer complete

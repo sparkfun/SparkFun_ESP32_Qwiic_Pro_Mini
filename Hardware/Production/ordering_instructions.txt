@@ -5,6 +5,6 @@ Silkscreen: White
 Layers: 2
 Finish: HASL Lead Free
 Thickness: 0.8mm
-Copper weight: 1oz
+Copper Weight: 1oz
 Minimum track width: 0.15mm (6.00mil)
 Minimum via drill: 0.30mm (11.81mil)

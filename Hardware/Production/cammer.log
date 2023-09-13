@@ -1,0 +1,26 @@
+2023-09-13 11:49:11,812 - cammer_logger - INFO - Running CAMmer
+2023-09-13 11:49:11,813 - cammer_logger - INFO - ['-l', 'F.Cu,B.Cu,F.Paste,B.Paste,F.Silkscreen,B.Silkscreen,F.Mask,B.Mask', '-e', 'Edge.Cuts,User.Comments']
+2023-09-13 11:49:11,813 - cammer_logger - INFO - CAMMER START: 2023-09-13T11:49:11.813436
+2023-09-13 11:49:14,587 - cammer_logger - INFO - 
+START: 2023-09-13T11:49:11.813436
+Deleting existing C:\Users\Studio\Dropbox\Projects\SparkFun_ESP32_Qwiic_Pro_Mini\Hardware\Production\SparkFun_ESP32_Qwiic_Pro_Mini_panelized.GTL
+Renaming C:\Users\Studio\Dropbox\Projects\SparkFun_ESP32_Qwiic_Pro_Mini\Hardware\Production\SparkFun_ESP32_Qwiic_Pro_Mini_panelized-F_Cu.gbr to C:\Users\Studio\Dropbox\Projects\SparkFun_ESP32_Qwiic_Pro_Mini\Hardware\Production\SparkFun_ESP32_Qwiic_Pro_Mini_panelized.GTL
+Deleting existing C:\Users\Studio\Dropbox\Projects\SparkFun_ESP32_Qwiic_Pro_Mini\Hardware\Production\SparkFun_ESP32_Qwiic_Pro_Mini_panelized.GBL
+Renaming C:\Users\Studio\Dropbox\Projects\SparkFun_ESP32_Qwiic_Pro_Mini\Hardware\Production\SparkFun_ESP32_Qwiic_Pro_Mini_panelized-B_Cu.gbr to C:\Users\Studio\Dropbox\Projects\SparkFun_ESP32_Qwiic_Pro_Mini\Hardware\Production\SparkFun_ESP32_Qwiic_Pro_Mini_panelized.GBL
+Deleting existing C:\Users\Studio\Dropbox\Projects\SparkFun_ESP32_Qwiic_Pro_Mini\Hardware\Production\SparkFun_ESP32_Qwiic_Pro_Mini_panelized.GTP
+Renaming C:\Users\Studio\Dropbox\Projects\SparkFun_ESP32_Qwiic_Pro_Mini\Hardware\Production\SparkFun_ESP32_Qwiic_Pro_Mini_panelized-F_Paste.gbr to C:\Users\Studio\Dropbox\Projects\SparkFun_ESP32_Qwiic_Pro_Mini\Hardware\Production\SparkFun_ESP32_Qwiic_Pro_Mini_panelized.GTP
+Deleting existing C:\Users\Studio\Dropbox\Projects\SparkFun_ESP32_Qwiic_Pro_Mini\Hardware\Production\SparkFun_ESP32_Qwiic_Pro_Mini_panelized.GBP
+Renaming C:\Users\Studio\Dropbox\Projects\SparkFun_ESP32_Qwiic_Pro_Mini\Hardware\Production\SparkFun_ESP32_Qwiic_Pro_Mini_panelized-B_Paste.gbr to C:\Users\Studio\Dropbox\Projects\SparkFun_ESP32_Qwiic_Pro_Mini\Hardware\Production\SparkFun_ESP32_Qwiic_Pro_Mini_panelized.GBP
+Deleting existing C:\Users\Studio\Dropbox\Projects\SparkFun_ESP32_Qwiic_Pro_Mini\Hardware\Production\SparkFun_ESP32_Qwiic_Pro_Mini_panelized.GTO
+Renaming C:\Users\Studio\Dropbox\Projects\SparkFun_ESP32_Qwiic_Pro_Mini\Hardware\Production\SparkFun_ESP32_Qwiic_Pro_Mini_panelized-F_Silkscreen.gbr to C:\Users\Studio\Dropbox\Projects\SparkFun_ESP32_Qwiic_Pro_Mini\Hardware\Production\SparkFun_ESP32_Qwiic_Pro_Mini_panelized.GTO
+Deleting existing C:\Users\Studio\Dropbox\Projects\SparkFun_ESP32_Qwiic_Pro_Mini\Hardware\Production\SparkFun_ESP32_Qwiic_Pro_Mini_panelized.GBO
+Renaming C:\Users\Studio\Dropbox\Projects\SparkFun_ESP32_Qwiic_Pro_Mini\Hardware\Production\SparkFun_ESP32_Qwiic_Pro_Mini_panelized-B_Silkscreen.gbr to C:\Users\Studio\Dropbox\Projects\SparkFun_ESP32_Qwiic_Pro_Mini\Hardware\Production\SparkFun_ESP32_Qwiic_Pro_Mini_panelized.GBO
+Deleting existing C:\Users\Studio\Dropbox\Projects\SparkFun_ESP32_Qwiic_Pro_Mini\Hardware\Production\SparkFun_ESP32_Qwiic_Pro_Mini_panelized.GTS
+Renaming C:\Users\Studio\Dropbox\Projects\SparkFun_ESP32_Qwiic_Pro_Mini\Hardware\Production\SparkFun_ESP32_Qwiic_Pro_Mini_panelized-F_Mask.gbr to C:\Users\Studio\Dropbox\Projects\SparkFun_ESP32_Qwiic_Pro_Mini\Hardware\Production\SparkFun_ESP32_Qwiic_Pro_Mini_panelized.GTS
+Deleting existing C:\Users\Studio\Dropbox\Projects\SparkFun_ESP32_Qwiic_Pro_Mini\Hardware\Production\SparkFun_ESP32_Qwiic_Pro_Mini_panelized.GBS
+Renaming C:\Users\Studio\Dropbox\Projects\SparkFun_ESP32_Qwiic_Pro_Mini\Hardware\Production\SparkFun_ESP32_Qwiic_Pro_Mini_panelized-B_Mask.gbr to C:\Users\Studio\Dropbox\Projects\SparkFun_ESP32_Qwiic_Pro_Mini\Hardware\Production\SparkFun_ESP32_Qwiic_Pro_Mini_panelized.GBS
+Deleting existing C:\Users\Studio\Dropbox\Projects\SparkFun_ESP32_Qwiic_Pro_Mini\Hardware\Production\SparkFun_ESP32_Qwiic_Pro_Mini_panelized.GKO
+Renaming C:\Users\Studio\Dropbox\Projects\SparkFun_ESP32_Qwiic_Pro_Mini\Hardware\Production\SparkFun_ESP32_Qwiic_Pro_Mini_panelized-Edge_Cuts.gbr to C:\Users\Studio\Dropbox\Projects\SparkFun_ESP32_Qwiic_Pro_Mini\Hardware\Production\SparkFun_ESP32_Qwiic_Pro_Mini_panelized.GKO
+Drill report: C:\Users\Studio\Dropbox\Projects\SparkFun_ESP32_Qwiic_Pro_Mini\Hardware\Production\drill_report.rpt
+
+2023-09-13 11:49:14,654 - cammer_logger - INFO - CAMmer complete

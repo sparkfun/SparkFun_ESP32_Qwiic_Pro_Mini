@@ -1,5 +1,6 @@
 Ordering Instructions:
 Panel dimensions: 172.68 x 141.16 mm.
+Material: TG135-140
 Solder Mask: Red
 Silkscreen: White
 Layers: 2

@@ -5757,7 +5757,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 21e02d97-4c87-433f-89e1-f25eaf69025e)
   )
-  (text "IO5: SDIO slave control. Has builtin pullup at POR."
+  (text "IO5: SDIO peripheral control. Has builtin pullup at POR."
     (at 95.25 52.07 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 26e4218f-658d-4f60-9242-0737df87cb75)

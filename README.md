@@ -1,7 +1,7 @@
 SparkFun ESP32 Qwiic Pro Mini
 ========================================
 
-[![SparkFun ESP32 Qwiic Pro Mini](https://cdn.sparkfun.com/assets/parts/2/1/9/1/0/22043-_XBee_Explorer_USB-C-_01.jpg)](https://www.sparkfun.com/products/23386)
+[![SparkFun ESP32 Qwiic Pro Mini]()](https://www.sparkfun.com/products/23386)
 
 [*SparkFun ESP32 Qwiic Pro Mini (22043)*](https://www.sparkfun.com/products/23386)
 

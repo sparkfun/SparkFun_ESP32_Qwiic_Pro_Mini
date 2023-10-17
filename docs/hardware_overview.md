@@ -5,7 +5,7 @@ icon: material/cog
 
 ## ESP32 PICO Mini 
 
-At the core of ESP32 PICO MINI 02 is the ESP32-PICO-V3-02 sip*. The chip is designed to be scalable and adaptive. There are two CPU cores that can be individually controlled, and the CPU clock frequency is adjustable from 80 MHz to 240 MHz. The chip also has a low-power coprocessor that can be used instead of the CPU to save power while performing tasks that do not require much computing power, such as monitoring of peripherals. This ESP32 chip integrates a rich set of peripherals, ranging from SD card interface, capacitive touch sensors, ADC, DAC, Two-Wire Automotive Interface, to Ethernet, high-speed SPI, UART, I2S, I2C, etc. For more information, refer to the [datasheet](assets/board_files/Espressif_Systems_04082021_ESP32_PICO_MINI_02_N8R2-2295871.pdf). 
+At the core of ESP32 PICO MINI 02 is the ESP32-PICO-V3-02 sip*. There are two CPU cores that can be individually controlled, and the CPU clock frequency is adjustable from 80 MHz to 240 MHz. The chip also has a low-power coprocessor that can be used instead of the CPU to save power while performing tasks that do not require much computing power, such as monitoring of peripherals. For more information, refer to the [datasheet](assets/board_files/Espressif_Systems_04082021_ESP32_PICO_MINI_02_N8R2-2295871.pdf). 
 
 
 <!--
@@ -57,9 +57,6 @@ There are two buttons on the board - Reset and Boot. The reset (RST) button allo
 ## LEDs
 
 Two LEDs - Power(Red) and STAT(Blue) - show the user that power has been appropriately supplied to the board and the status of the data transfer. 
-
-Green: Stat LED
-Red: Power LED
 
 <figure markdown>
 [![LEDs](assets/img/22043-SparkFun-XBee-Explorer-USB-C-LEDs.jpg){ width="400" }](assets/img/22043-SparkFun-XBee-Explorer-USB-C-LEDs.jpg "Click to enlarge")

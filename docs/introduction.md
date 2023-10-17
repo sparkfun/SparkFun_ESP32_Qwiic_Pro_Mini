@@ -15,6 +15,9 @@ icon: material/book-open-page-variant
     ![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/1/9/1/0/23386-_XBee_Explorer_USB-C-_01.jpg)
     </figure></a>
     
+-    The SparkFun ESP32 Qwiic Pro Mini kicks some serious booty. Get it now. 
+
+
     <center>
     [Purchase from SparkFun :fontawesome-solid-cart-plus:{ .heart }](https://www.sparkfun.com/products/23386){ .md-button .md-button--primary }
     </center>
@@ -58,42 +61,41 @@ To follow along with this tutorial, you will need the following materials. You m
 
 As a more professionally oriented product, we will skip over the more fundamental tutorials (i.e. [**Ohm's Law**](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law) and [**What is Electricity?**](https://learn.sparkfun.com/tutorials/what-is-electricity)). However, below are a few tutorials that may help users familiarize themselves with various aspects of the board.
 
+<div class="grid cards hide col-4" markdown align="center">
 
+-   <a href="https://learn.sparkfun.com/tutorials/how-to-solder-through-hole-soldering">
+    <figure markdown>
+    ![How to Solder: Through-Hole Soldering](https://cdn.sparkfun.com/assets/learn_tutorials/5/Soldering_Action-01.jpg)
+    </figure>
+    </a>
+    <a href="https://learn.sparkfun.com/tutorials/how-to-solder-through-hole-soldering">**How to Solder: Through-Hole Soldering**
+    </a>
 
-<table style="border-style:none">
-    <tr>
-        <td>
-            <a href="https://learn.sparkfun.com/tutorials/how-to-solder-through-hole-soldering">
-                <center><img src="https://cdn.sparkfun.com/assets/learn_tutorials/5/Soldering_Action-01.jpg" style="width:140px; height:140px; object-fit:contain;" alt="How to Solder: Through-Hole Soldering"></center>
-                <h3 class="title">How to Solder: Through-Hole Soldering</h3>
-            </a>
-        </td>
-        <td>
-            <a href="https://learn.sparkfun.com/tutorials/analog-vs-digital">
-                <center><img src="https://cdn.sparkfun.com/assets/learn_tutorials/8/9/analog_vs_digital_thumb.png" style="width:140px; height:140px; object-fit:contain;" alt="Analog vs. Digital" height="140"></center>
-                <h3 class="title">Analog vs. Digital</h3>
-            </a>
-        </td>
-        <td>
-            <a href="https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi">
-                <center><img src="https://cdn.sparkfun.com/assets/learn_tutorials/1/6/spiThumb_Updated2.png" style="width:140px; height:140px; object-fit:contain;" alt="Serial Peripheral Interface (SPI)" >
-                </center>
-                <h3 class="title">Serial Peripheral Interface (SPI)</h3>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://learn.sparkfun.com/tutorials/i2c">
-                <center><img src="https://cdn.sparkfun.com/assets/learn_tutorials/8/2/I2C-Block-Diagram.jpg" style="width:140px; height:140px; object-fit:contain;" alt="I2C" >
-                </center>
-                <h3 class="title">I2C</h3>
-            </a>
-        </td>
-    </tr>
-</table>
+-   <a href="https://learn.sparkfun.com/tutorials/82">
+    <figure markdown>
+    ![I2C](https://cdn.sparkfun.com/assets/learn_tutorials/8/2/I2C-Block-Diagram.jpg)
+    </figure>
+    </a>
+    <a href="https://learn.sparkfun.com/tutorials/82">**I2C**
+    </a>
 
-</table>
+-   <a href="https://learn.sparkfun.com/tutorials/analog-vs-digital">
+    <figure markdown>
+    ![Analog vs. Digital](https://cdn.sparkfun.com/assets/learn_tutorials/8/9/analog_vs_digital_thumb.png)
+    </figure>
+    </a>
+    <a href="https://learn.sparkfun.com/tutorials/analog-vs-digital">**Analog vs. Digital**
+    </a>
+
+-   <a href="https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi">
+    <figure markdown>
+    ![SPI](https://cdn.sparkfun.com/assets/learn_tutorials/1/6/spiThumb_Updated2.png)
+    </figure>
+    </a>
+    <a href="https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi">**SPI**
+    </a>
+</div>
+
 
 <center>
 <div align="center">

@@ -11,7 +11,7 @@ Repository Contents
 -------------------
 
 * **/Hardware** - Eagle design files (.brd, .sch)
-* **/Documents** - 
+* **/Documents** - Files related to the ESP32 Qwiic Pro Mini
 * **/Firmware** - Production panel files (.brd)
 
 Documentation

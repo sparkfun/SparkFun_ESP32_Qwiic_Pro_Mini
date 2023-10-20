@@ -15,8 +15,7 @@ icon: material/book-open-page-variant
     ![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/1/9/1/0/23386-_XBee_Explorer_USB-C-_01.jpg)
     </figure></a>
     
--    The SparkFun ESP32 Qwiic Pro Mini kicks some serious booty. Get it now. 
-
+-    The SparkFun ESP32 Qwiic Pro Mini houses the powerful ESP32 Pico Mini from Espressif on our mini footprint. With two individually controllable CPU cores, adjustable CPU clock frequency, a co-processor that can be used in situations that require minimal computing power, as well as a rich set of peripherals such as capabilities for SD card interface, capacitive touch sensors,ADC, DAC, Two-Wire Automotive Interface, to Ethernet, high-speed SPI, UART, I²S, and I²C. 
 
     <center>
     [Purchase from SparkFun :fontawesome-solid-cart-plus:{ .heart }](https://www.sparkfun.com/products/23386){ .md-button .md-button--primary }

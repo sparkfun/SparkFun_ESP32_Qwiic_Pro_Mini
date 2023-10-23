@@ -70,6 +70,14 @@ As a more professionally oriented product, we will skip over the more fundamenta
     <a href="https://learn.sparkfun.com/tutorials/how-to-solder-through-hole-soldering">**How to Solder: Through-Hole Soldering**
     </a>
 
+-   <a href="https://learn.sparkfun.com/tutorials/sparkfun-serial-basic-ch340c-hookup-guide">
+    <figure markdown>
+    ![SparkFun Serial Basic CH340C Hookup Guide](https://cdn.sparkfun.com/assets/learn_tutorials/8/3/7/USB-C_and_5V_Pro_Mini.jpg)
+    </figure>
+    </a>
+    <a href="https://learn.sparkfun.com/tutorials/sparkfun-serial-basic-ch340c-hookup-guide">**SparkFun Serial Basic CH340C Hookup Guide**
+    </a>    
+
 -   <a href="https://learn.sparkfun.com/tutorials/82">
     <figure markdown>
     ![I2C](https://cdn.sparkfun.com/assets/learn_tutorials/8/2/I2C-Block-Diagram.jpg)

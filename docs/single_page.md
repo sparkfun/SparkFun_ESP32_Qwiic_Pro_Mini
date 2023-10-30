@@ -14,10 +14,11 @@ icon: fontawesome/solid/scroll
 # Hardware Assembly
 --8<-- "./docs/hardware_assembly.md:5"
 
-# <Product Name> Arduino Library
-
 ## Software Setup
 --8<-- "./docs/software_setup.md:5"
+
+## Arduino Example
+--8<-- "./docs/arduino_example.md:5"
 
 # Troubleshooting Tips
 --8<-- "./docs/troubleshooting_tips.md:5"

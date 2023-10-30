@@ -4,7 +4,7 @@ icon: simple/arduino
 
 Now that we've installed the espressif boards package in Arduino, it's time to upload our first sketch to make sure everything is working properly.
 
-## Example 1 - Blink 
+## Example - Blink 
 
 This basic example makes sure the board package installed correctly and the board accepts programming properly to blink the green STAT LED on the board every second. Open the example in Arduino by navigating to File > Examples > Basics > 01-Blink.
 

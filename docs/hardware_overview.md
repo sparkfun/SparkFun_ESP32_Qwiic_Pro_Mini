@@ -42,7 +42,7 @@ The AP2112K Voltage Regulator ensures that the appropriate voltage is provided t
 
 ## Qwiic connector
 
-The board includes a Qwiic connector for use with our vast array of Qwiic sensors. For users that need to solder directly to the board, the pins are also broken out on the edge PTH. The I<sup>2</sup>C data and clock lines are also tied to 2.2kΩ pull-up resistors.
+The board includes a Qwiic connector for use with our vast array of Qwiic sensors. The I<sup>2</sup>C data and clock lines are tied to 2.2kΩ pull-up resistors.
 
 Note that we've mounted the Qwiic connector vertically to prevent the occlusion of soldering and/or using the GPIO. 
 
@@ -82,15 +82,11 @@ IO5: SDIO peripheral control. Has builtin pullup at POR
 IO12: Avoid external pullups - will cause bootloader fail
 IO15: Suppress output at POR. Has builtin pullup at POR
 
-
-
-
-<!--
 <figure markdown>
-[![USB-C Connector](assets/img/22043-SparkFun-XBee-Explorer-USB-C-BuckConverter.jpg){ width="400" }](assets/img/22043-SparkFun-XBee-Explorer-USB-C-BuckConverter.jpg "Click to enlarge")
-<figcaption markdown>AP63203 Buck Converter</figcaption>
+[![GPIO](assets/img/23386-Pro-Mini-ESP32-GPIO.jpg){ width="400" }](assets/img/23386-Pro-Mini-ESP32-GPIO.jpg "Click to enlarge")
+<figcaption markdown>GPIO</figcaption>
 </figure>
--->
+
 
 ## Jumpers
 

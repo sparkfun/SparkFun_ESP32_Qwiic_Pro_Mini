@@ -1,3 +1,5 @@
+<!--Hardware Assembly -->
+
 To program this board, and to use any of the I/O, you'll need to solder _something_ to its headers. In the least, we recommend soldering [right-angle male headers](https://www.sparkfun.com/products/553) or [straight male headers](https://www.sparkfun.com/products/116) onto the six-pin serial header. Either of these will interface easily with the [SparkFun Serial Basic Breakout - CH340C and USB-C](https://www.sparkfun.com/products/15096).
 
 ??? note "New to soldering?"

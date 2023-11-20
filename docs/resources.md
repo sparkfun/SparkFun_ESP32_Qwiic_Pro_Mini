@@ -1,4 +1,4 @@
-# Resources
+
 <!-- This section should include all the relevant documentation and product files (Eagle files, schematic, datasheet(s), landing pages, etc. and any relevant tutorials to go beyond the Hookup Guide.) -->
 
 For more resources related to the SparkFun ESP32 Qwiic Pro Mini, check out the links listed here: 

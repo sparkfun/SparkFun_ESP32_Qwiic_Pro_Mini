@@ -15,13 +15,13 @@ icon: fontawesome/solid/scroll
 --8<-- "./docs/hardware_assembly.md:5"
 
 ## Software Setup
---8<-- "./docs/software_setup.md:5"
+--8<-- "./docs/software_setup_and_programming.md:5"
 
 ## Arduino Example
 --8<-- "./docs/arduino_example.md:5"
 
 # Troubleshooting Tips
---8<-- "./docs/troubleshooting_tips.md:5"
+--8<-- "./docs/troubleshooting.md:5"
 
 # Resources:
 --8<-- "./docs/resources.md"

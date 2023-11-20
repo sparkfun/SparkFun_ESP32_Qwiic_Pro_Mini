@@ -15,7 +15,7 @@ With the ESP32 Qwiic Pro Mini Board connected to our computer, it's time to set 
 Install the espressif ESP32 Arduino Boards package by opening the Boards Manager tab on the left side of the IDE, then search for "espressif ESP32" and install the latest version of the ESP32 boards package as the screenshot below shows. This assumes the use of Arduino 2.x. Legacy users (Arduino 1.8x and previous) can find the Boards Manager tool in File/Tools/Boards Manager.
 
 <figure markdown>
-[![ESP32 Boards manager install.](./assets/img/espressif_arduino_boards.jpg){ width="90%"}](./assets/img/espressif_arduino_boards.jpg "Click to enlarge")
+[![ESP32 Boards manager install.](assets/img/espressif_arduino_boards.jpg){ width="90%"}](assets/img/espressif_arduino_boards.jpg "Click to enlarge")
 </figure>
 
 

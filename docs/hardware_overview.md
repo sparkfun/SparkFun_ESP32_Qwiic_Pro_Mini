@@ -75,12 +75,13 @@ Two LEDs - Power(Red) and STAT(Blue) - show the user that power has been appropr
 
 The PTH pins are compatible with older Pro Minis. There are a few analog *input only* pins. They are labeled clearly.
 
-Use boot control pins with caution: 0, 2, 5, 12, 15
+<!--Use boot control pins with caution: 0, 2, 5, 12, 15
 IO0: Avoid device connections. Can be used as a stat LED
 IO2: Avoid external pullups - will cause bootloader fail
 IO5: SDIO peripheral control. Has builtin pullup at POR
 IO12: Avoid external pullups - will cause bootloader fail
 IO15: Suppress output at POR. Has builtin pullup at POR
+-->
 
 <figure markdown>
 [![GPIO](assets/img/23386-Pro-Mini-ESP32-GPIO.jpg){ width="400" }](assets/img/23386-Pro-Mini-ESP32-GPIO.jpg "Click to enlarge")

@@ -1,7 +1,7 @@
 SparkFun ESP32 Qwiic Pro Mini
 ========================================
 
-[![SparkFun ESP32 Qwiic Pro Mini]()](https://www.sparkfun.com/products/23386)
+[![SparkFun ESP32 Qwiic Pro Mini](https://cdn.sparkfun.com/r/600-600/assets/parts/2/3/7/4/4/23386-Pro-Mini-ESP32-Feature-new.jpg)](https://www.sparkfun.com/products/23386)
 
 [*SparkFun ESP32 Qwiic Pro Mini (23386)*](https://www.sparkfun.com/products/23386)
 

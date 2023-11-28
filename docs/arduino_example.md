@@ -37,3 +37,8 @@ Before uploading, you'll need to put the board into the <a href="https://docs.es
     * Power cycle the board. 
 
 Once the board is in the serial bootloader, you can upload code through the Arduino interface. Once your code is uploaded, you may need to hit the <kbd>RST</kbd> button to get your sketch running. 
+
+<figure markdown>
+[![Blink Example](assets/img/23386-ESP32-Qwiic-Pro-Mini-Gif.gif){ width="400" }](assets/img/23386-ESP32-Qwiic-Pro-Mini-Gif.gif "Click to enlarge")
+<figcaption markdown>Blink Example</figcaption>
+</figure>

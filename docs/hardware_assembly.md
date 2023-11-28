@@ -19,3 +19,10 @@ To program this board, and to use any of the I/O, you'll need to solder _somethi
 		**How to Solder: Through-Hole Soldering**</a>
 
 	</div>
+
+
+<figure markdown>
+[![ESP32 Connected to FTDI](assets/img/23386-ESP32-Qwiic-Pro-Mini-Action3.jpg){ width="400" }](assets/img/23386-ESP32-Qwiic-Pro-Mini-Action3.jpg "Click to enlarge")
+<figcaption markdown>ESP32 Connected to FTDI</figcaption>
+</figure>
+

@@ -31,7 +31,7 @@ To follow along with this tutorial, you will need the following materials. You m
     <tr>
         <td>
             <a href="https://www.sparkfun.com/products/23386">
-                <center><img src="https://cdn.sparkfun.com/assets/parts/2/1/9/1/0/23386-_XBee_Explorer_USB-C-_01.jpg" style="width:140px; height:140px; object-fit:contain;" alt="SparkFun ESP32 Qwiic Pro Mini"></center>
+                <center><img src="https://cdn.sparkfun.com/assets/parts/2/3/7/4/4/23386-Pro-Mini-ESP32-Feature-new.jpg" style="width:140px; height:140px; object-fit:contain;" alt="SparkFun ESP32 Qwiic Pro Mini"></center>
                 <h3 class="title">SparkFun ESP32 Qwiic Pro Mini</h3>
             </a>
             DEV-23386

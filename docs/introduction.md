@@ -7,7 +7,7 @@ icon: material/book-open-page-variant
 
 -    <a href="https://www.sparkfun.com/products/23386">
     **SparkFun ESP32 Qwiic Pro Mini**<br>
-    **SKU:** WRL-23386
+    **SKU:** DEV-23386
 
     ---
 

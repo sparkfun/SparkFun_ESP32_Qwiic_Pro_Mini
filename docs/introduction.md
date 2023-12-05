@@ -45,9 +45,9 @@ To follow along with this tutorial, you will need the following materials. You m
         </td>
         <td>
             <a href="https://www.sparkfun.com/products/15425">
-                <center><img src="https://cdn.sparkfun.com//assets/parts/1/2/9/7/2/14743-USB_3.1_Cable_A_to_C_-_3_Foot-01.jpg" style="width:140px; height:140px; object-fit:contain;" alt="USB 3.1 Cable A to C - 3 Foot" >
+                <center><img src="https://cdn.sparkfun.com/assets/parts/1/3/9/8/4/15425-Reversible_USB_A_to_C_Cable_-_0.8m-01.jpg" style="width:140px; height:140px; object-fit:contain;" alt="Reversible USB A to C Cable - 0.8m" >
                 </center>
-                <h3 class="title">USB 3.1 Cable A to C - 3 Foot</h3>
+                <h3 class="title">Reversible USB A to C Cable - 0.8m</h3>
             </a>
             CAB-15425
         </td>

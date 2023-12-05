@@ -37,7 +37,7 @@ Before uploading, you'll need to put the board into the <a href="https://docs.es
 3. Release the <kbd>BOOT</kbd> button.
 4. After programming is completed, reboot the MCU.
     * Press the <kbd>RST</kbd> button.
-    * Power cycle the board. 
+    * Or, power cycle the board. 
 
 Once the board is in the serial bootloader, you can upload code through the Arduino interface. Once your code is uploaded, you will need to hit the <kbd>RST</kbd> button to get your sketch running. 
 

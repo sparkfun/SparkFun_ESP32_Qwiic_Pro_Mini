@@ -5,7 +5,7 @@ icon: material/cog
 
 ## ESP32 PICO Mini 
 
-At the core of ESP32 PICO MINI 02 is the ESP32-PICO-V3-02 sip*. There are two CPU cores that can be individually controlled, and the CPU clock frequency is adjustable from 80 MHz to 240 MHz. The chip also has a low-power coprocessor that can be used instead of the CPU to save power while performing tasks that do not require much computing power, such as monitoring of peripherals. For more information, refer to the [datasheet](assets/board_files/Espressif_Systems_04082021_ESP32_PICO_MINI_02_N8R2-2295871.pdf). 
+At the core of ESP32 PICO MINI 02 is the ESP32-PICO-MINI-02-N8R2 variant which includes 8MB Flash and 2MB PSRAM. There are two CPU cores that can be individually controlled, and the CPU clock frequency is adjustable from 80 MHz to 240 MHz. The chip also has a low-power coprocessor that can be used instead of the CPU to save power while performing tasks that do not require much computing power, such as monitoring of peripherals. For more information, refer to the [datasheet](assets/board_files/Espressif_Systems_04082021_ESP32_PICO_MINI_02_N8R2-2295871.pdf). 
 
 
 <figure markdown>
@@ -15,12 +15,15 @@ At the core of ESP32 PICO MINI 02 is the ESP32-PICO-V3-02 sip*. There are two CP
 
 ## Power
 
-Power can be provided via the PTH pins or via the FTDI pins at the edge of the board. To utilize the PTH pins, we recommend soldering the [JST Right-Angle Connector - Through-Hole 2-Pin](https://www.sparkfun.com/products/9749). Should you wish to go the FTDI route, we recommend [this one](https://www.sparkfun.com/products/15096). For the record, an FTDI will be required to program the board as well. 
+Power is typically supplied via the VCC/GND pins using a [USB to Serial adapter](https://www.sparkfun.com/products/15096). Alternatively, external or portable power can be provided via the GND/RAW pins along the GPIO edge. Note: The AP2112K has a max input voltage of 6V.
+
+
+The serial programming pins at the edge of the board are FTDI compatible and works best with our [CH340 USB to Serial breakout](https://www.sparkfun.com/products/15096). To utilize the GND/RAW pins along the GPIO edge, we recommend soldering the [JST Right-Angle Connector - Through-Hole 2-Pin](https://www.sparkfun.com/products/9749). 
 
 
 <figure markdown>
 [![FTDI PTHs](assets/img/23386-Pro-Mini-ESP32-FTDIPTH.jpg){ width="400" }](assets/img/23386-Pro-Mini-ESP32-FTDIPTH.jpg "Click to enlarge")
-<figcaption markdown>FTDI Plated Through Holes</figcaption>
+<figcaption markdown>Serial Programming Pins</figcaption>
 </figure>
 
 
@@ -31,7 +34,8 @@ Power can be provided via the PTH pins or via the FTDI pins at the edge of the b
 
 ## Voltage Regulator - AP2112K
 
-The AP2112K Voltage Regulator ensures that the appropriate voltage is provided to the various components of the board. 
+The AP2112K Voltage Regulator ensures that the appropriate voltage is provided to the various components of the board. The AP2112K has a max input voltage of 6V.
+
 
 
 <figure markdown>
@@ -42,9 +46,9 @@ The AP2112K Voltage Regulator ensures that the appropriate voltage is provided t
 
 ## Qwiic connector
 
-The board includes a Qwiic connector for use with our vast array of Qwiic sensors. The I<sup>2</sup>C data and clock lines are tied to 2.2kΩ pull-up resistors.
+The board includes a [Qwiic Connector](www.sparkfun.com/qwiic) for use with our vast array of Qwiic sensors. The I<sup>2</sup>C data and clock lines are tied to 2.2kΩ pull-up resistors.
 
-Note that we've mounted the Qwiic connector vertically to prevent the occlusion of soldering and/or using the GPIO. 
+Note that we've mounted the [Qwiic Connector](www.sparkfun.com/qwiic) vertically to prevent the occlusion of soldering and/or using the GPIO. 
 
 
 <figure markdown>
@@ -102,7 +106,7 @@ IO15: Suppress output at POR. Has builtin pullup at POR
 
 ### Power Jumper
 
-If you have concerns about power consumption or really just don't like LEDs, you can cut this jumper to disable the red PWR LED on the front of the board.
+If you have concerns about power consumption, need to run dark, or really just don't like LEDs, you can cut this jumper to disable the red PWR LED on the front of the board.
 
 <figure markdown>
 [![Power Jumper](assets/img/23386-Pro-Mini-ESP32-PWRJumper.jpg){ width="400" }](assets/img/23386-Pro-Mini-ESP32-PWRJumper.jpg "Click to enlarge")
@@ -122,7 +126,7 @@ The board dimensions are illustrated in the drawing below; the listed measuremen
 
 
 ??? tip "Need more measurements?"
-	For more information about the board's dimensions, users can download the [KiCad files](assets/board_files/SparkFun_ESP32_Qwiic_Pro_Mini-KiCadFiles.zip) for the board. These files can be opened in Eagle and additional measurements can be made with the dimensions tool.
+	For more information about the board's dimensions, users can download the [KiCad files](assets/board_files/SparkFun_ESP32_Qwiic_Pro_Mini-KiCadFiles.zip) for the board. These files can be opened in KiCad and additional measurements can be made with the dimensions tool.
 
 	??? info ":octicons-download-16:{ .heart } KiCAD - Free Download!"
 		KiCAD is a [CAD]("computer-aided design") program for electronics that is free to use for hobbyists and students. However, it does require an account registration to utilize the software.

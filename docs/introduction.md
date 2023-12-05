@@ -15,7 +15,7 @@ icon: material/book-open-page-variant
     ![Product Thumbnail](https://cdn.sparkfun.com/r/600-600/assets/parts/2/3/7/4/4/23386-Pro-Mini-ESP32-Feature-new.jpg)
     </figure></a>
     
--    The SparkFun ESP32 Qwiic Pro Mini houses the powerful ESP32 Pico Mini from Espressif on our mini footprint. With two individually controllable CPU cores, adjustable CPU clock frequency, a co-processor that can be used in situations that require minimal computing power, as well as a rich set of peripherals such as capabilities for SD card interface, capacitive touch sensors,ADC, DAC, Two-Wire Automotive Interface, to Ethernet, high-speed SPI, UART, I²S, and I²C. 
+-    The SparkFun ESP32 Qwiic Pro Mini houses the powerful ESP32 Pico Mini from Espressif on our mini footprint. With two individually controllable CPU cores, adjustable CPU clock frequency, a co-processor that can be used in situations that require minimal computing power, as well as a rich set of peripherals such as capabilities for SD card interface, capacitive touch sensors, ADC, DAC, Two-Wire Automotive Interface, to Ethernet, high-speed SPI, UART, I²S, and I²C. 
 
     <center>
     [Purchase from SparkFun :fontawesome-solid-cart-plus:{ .heart }](https://www.sparkfun.com/products/23386){ .md-button .md-button--primary }
@@ -44,12 +44,12 @@ To follow along with this tutorial, you will need the following materials. You m
             DEV-15096
         </td>
         <td>
-            <a href="https://www.sparkfun.com/products/14743">
-                <center><img src="https://cdn.sparkfun.com/c/178-100/assets/parts/1/2/9/7/2/14743-USB_3.1_Cable_A_to_C_-_3_Foot-01.jpg" style="width:140px; height:140px; object-fit:contain;" alt="USB 3.1 Cable A to C - 3 Foot" >
+            <a href="https://www.sparkfun.com/products/15425">
+                <center><img src="https://cdn.sparkfun.com//assets/parts/1/2/9/7/2/14743-USB_3.1_Cable_A_to_C_-_3_Foot-01.jpg" style="width:140px; height:140px; object-fit:contain;" alt="USB 3.1 Cable A to C - 3 Foot" >
                 </center>
                 <h3 class="title">USB 3.1 Cable A to C - 3 Foot</h3>
             </a>
-            CAB-14743
+            CAB-15425
         </td>
     </tr>
 </table>

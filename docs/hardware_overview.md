@@ -5,7 +5,7 @@ icon: material/cog
 
 ## ESP32 PICO Mini 
 
-At the core of ESP32 PICO MINI 02 is the ESP32-PICO-MINI-02-N8R2 variant which includes 8MB Flash and 2MB PSRAM. There are two CPU cores that can be individually controlled, and the CPU clock frequency is adjustable from 80 MHz to 240 MHz. The chip also has a low-power coprocessor that can be used instead of the CPU to save power while performing tasks that do not require much computing power, such as monitoring of peripherals. For more information, refer to the [datasheet](assets/board_files/Espressif_Systems_04082021_ESP32_PICO_MINI_02_N8R2-2295871.pdf). 
+At the core of the SparkFun ESP32 Qwiic Pro Mini is the ESP32-PICO-MINI-02-N8R2 variant which includes 8MB Flash and 2MB PSRAM. There are two CPU cores that can be individually controlled, and the CPU clock frequency is adjustable from 80 MHz to 240 MHz. The chip also has a low-power coprocessor that can be used instead of the CPU to save power while performing tasks that do not require much computing power, such as monitoring of peripherals. For more information, refer to the [datasheet](assets/board_files/Espressif_Systems_04082021_ESP32_PICO_MINI_02_N8R2-2295871.pdf). 
 
 
 <figure markdown>

@@ -5766,6 +5766,10 @@
     (effects (font (size 3 3)) (justify left bottom))
     (uuid 4521182b-ff44-448f-8b12-34fb5429684c)
   )
+  (text "ESP32-PICO-MINI-02-N8R2 (8MB flash, 2MB PSRAM)" (at 33.02 121.92 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 62dbc78d-22f7-4b2e-ade2-d554d67f7c4d)
+  )
   (text "IO2: Avoid external pullups - will cause bootloader fail."
     (at 95.25 49.53 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))

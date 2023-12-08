@@ -7,7 +7,7 @@
   (title_block
     (title "SparkFun ESP32 Qwiic Pro Mini")
     (date "2023-09-18")
-    (rev "v11")
+    (rev "v12")
     (comment 1 "Designed by: N. Seidle")
   )
 
